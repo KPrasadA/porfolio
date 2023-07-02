@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KPrasadA/porfolio.git/static/css/main.cd0a1135.css",
+    "main.js": "/KPrasadA/porfolio.git/static/js/main.ebc5c998.js",
+    "static/media/MyImage.jpg": "/KPrasadA/porfolio.git/static/media/MyImage.d40426c27de11409c493.jpg",
+    "static/media/me.png": "/KPrasadA/porfolio.git/static/media/me.ba4a6537d737aae0d5de.png",
+    "index.html": "/KPrasadA/porfolio.git/index.html",
+    "main.cd0a1135.css.map": "/KPrasadA/porfolio.git/static/css/main.cd0a1135.css.map",
+    "main.ebc5c998.js.map": "/KPrasadA/porfolio.git/static/js/main.ebc5c998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0a1135.css",
+    "static/js/main.ebc5c998.js"
+  ]
+}
